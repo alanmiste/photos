@@ -1,3 +1,14 @@
 {
-  "name": ["Rose","Birke"]
+  "Trees": ["Apple Gum","Queensland Bottle Tree","Blue Cypress Pine","Red Flowering Gum",
+    "Large Fruited Yellow Gum","Plunkett Mallee","Silver Mountain Gum","Red Iron Bark",
+  "Kentia Palm","Grass Tree","Weeping Myall","Burgundy Willow Peppermint","Burgundy Willow Myrtle",
+    "Coast Banksia","Lacebark Tree","Queensland Bottle Tree","Swamp Sheoak","Orange Flowering Gum",
+    "Red Flowering Gum","Tuckeroo","Red Edged Dragon Tree","Sugar Gum","Stockdale Sensation Hakea",
+    "Native Frangipani","Queensland Box","Weeping Lilly Pilly"],
+
+  "GroundPlants": ["Birds Nest Fern","Prostrate Banksia","Red Ti","Gymea Lily","Giant Spear Lily","Gold Nugget",
+    "Coastal Banksia","Lacy Tree Fern","Creeping Boobialla","Peace Lily","Blue Coastal Rosemary"]
 }
+
+
+
