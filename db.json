@@ -7,5 +7,11 @@
     "Native Frangipani","Queensland Box","Weeping Lilly Pilly"],
 
   "GroundPlants": ["Birds Nest Fern","Prostrate Banksia","Red Ti","Gymea Lily","Giant Spear Lily","Gold Nugget",
-    "Coastal Banksia","Lacy Tree Fern","Creeping Boobialla","Peace Lily","Blue Coastal Rosemary"]
+    "Coastal Banksia","Lacy Tree Fern","Creeping Boobialla","Peace Lily","Blue Coastal Rosemary"],
+
+  "Palms": ["Bangalow Palm","Triangle Palm","Golden Cane Palm","Majestic Palm","Cotton Palm"],
+
+  "Grasses": ["Giant Timber Bamboo","Burgundy Flax Lily","African Iris","Wild Iris","Spiny Mat Rush",
+    "Great White Mat Rush","Purple Fountain Grass","Dwarf White Stripe Bamboo","Kangaroo Grass"]
 }
+
